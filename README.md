@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm dariushkadkhoda</h1>
 <h3 align="center">A frontend developer from Iran</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dariushkadkhoda" alt="dariushkadkhoda" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [dariushkadkhoda.ir](dariushkadkhoda.ir)
