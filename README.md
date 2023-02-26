@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm dariushkadkhoda</h1>
 <h3 align="center">A frontend developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dariushkadkhoda&label=Profile%20views&color=0e75b6&style=flat" alt="dariushkadkhoda" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dariushkadkhoda" alt="dariushkadkhoda" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js**
@@ -25,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dariushkadkhoda&show_icons=true&locale=en&layout=compact" alt="dariushkadkhoda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dariushkadkhoda&show_icons=true&locale=en" alt="dariushkadkhoda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dariushkadkhoda&" alt="dariushkadkhoda" /></p>
